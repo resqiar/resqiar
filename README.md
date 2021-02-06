@@ -7,6 +7,7 @@ My name is Resqi Ageng Rahmatullah. I'm a Junior Software Engineer who specializ
 
 ## 💼 Career
 Currently unemployed as a Fresh Graduate
+> Education: High School 2020
 
 ## 💻 Skills or what i have learned 
 - HTML & CSS
@@ -53,7 +54,7 @@ Currently unemployed as a Fresh Graduate
 ### ❤️‍🔥 Hot Project
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=resqiar&repo=cube-video-sharing&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-### Wakatime
+### ⏳ Wakatime
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=e1e04b0c-4ecc-489e-b9aa-00c30a1aab60&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 > Joined Wakatime on 05/02/2020
 
