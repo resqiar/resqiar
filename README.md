@@ -47,11 +47,11 @@ Currently unemployed as a Fresh Graduate
 - [Uber Clone (Rider APP)](https://github.com/resqiar/Letsjek-Rider)
 - [Uber Clone (Driver APP)](https://github.com/resqiar/LetsJek-Driver)
 - [Zoom Clone](https://github.com/resqiar/cube-video-sharing)
-- Admin Dashboard Management using Node - Private Repo
+- [Admin Dashboard Management using Node](https://github.com/resqiar/staycation-backend)
 
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=e1e04b0c-4ecc-489e-b9aa-00c30a1aab60)](https://github.com/anuraghazra/github-readme-stats)
-### Joined Wakatime on 05/02/2020
+> Joined Wakatime on 05/02/2020
 
 
 ### 🚀 Reach me on:
