@@ -49,6 +49,11 @@ Currently unemployed as a Fresh Graduate
 - [Zoom Clone](https://github.com/resqiar/cube-video-sharing)
 - Admin Dashboard Management using Node - Private Repo
 
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=e1e04b0c-4ecc-489e-b9aa-00c30a1aab60)](https://github.com/anuraghazra/github-readme-stats)
+### Joined Wakatime on 05/02/2020
+
+
 ### 🚀 Reach me on:
 - Email: [resqiagengr@gmail.com](resqiagengr@gmail.com)
 - LinkedIn: [Resqi Ageng Rahmatullah](www.linkedin.com/in/resqi-ageng-rahmatullah-8692911a5)
