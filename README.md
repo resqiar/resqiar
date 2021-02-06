@@ -1,9 +1,5 @@
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=resqiar&?count_private=true&show_icons=true&theme=radical&repo=cube-video-sharing" alt="Sutanlab Github Stats">
-</div>
-<br>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=resqiar&theme=radical&layout=compact" alt="Sutanlab Github Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=resqiar&?include_all_commits=true&count_private=true&show_icons=true&theme=radical&repo=cube-video-sharing" alt="Sutanlab Github Stats">
 </div>
 
 # 👋 Hello! 
@@ -36,6 +32,11 @@ Currently unemployed as a Fresh Graduate
 - Docker, Kubernetes, Message Broker, etc
 - Self Improvement
 
+### 🛠️ Hammer and Wrench
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=resqiar&theme=radical&layout=compact" alt="Sutanlab Github Stats">
+</div>
+
 ### 🧰 My Projects: ~ from basic to medium-high
 - [Movie Catalog](https://github.com/resqiar/Simple-Movie-Catalog)
 - [Github User Finder](https://github.com/resqiar/GithubUserFinder)
@@ -49,8 +50,11 @@ Currently unemployed as a Fresh Graduate
 - [Zoom Clone](https://github.com/resqiar/cube-video-sharing)
 - [Admin Dashboard Management using Node](https://github.com/resqiar/staycation-backend)
 
+### ❤️‍🔥 Hot Project
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=resqiar&repo=cube-video-sharing&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=e1e04b0c-4ecc-489e-b9aa-00c30a1aab60)](https://github.com/anuraghazra/github-readme-stats)
+### Wakatime
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=e1e04b0c-4ecc-489e-b9aa-00c30a1aab60&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 > Joined Wakatime on 05/02/2020
 
 
