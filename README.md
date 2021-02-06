@@ -13,6 +13,8 @@ Currently unemployed as a Fresh Graduate
 - HTML & CSS
 - JavaScript Client-side
 - JavaScript Server-side (Node)
+- JavaScript ES6 & Asynchronous Handling
+- Embedded JavaScript (.ejs)
 - React.JS
 - Web Socket
 - Peer.JS
