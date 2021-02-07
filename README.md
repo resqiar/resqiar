@@ -27,6 +27,7 @@ Currently unemployed as a Fresh Graduate
 - Heroku, Netlify
 - Dart (Flutter)
 - Kotlin
+- Python
 
 ### 🔍 Currently Learning:
 - GOlang
@@ -41,6 +42,7 @@ Currently unemployed as a Fresh Graduate
 </div>
 
 ### 🧰 My Projects: ~ from basic to medium-high
+- [Automate WhatsApp Sender](https://github.com/resqiar/automate-wa-message)
 - [Movie Catalog](https://github.com/resqiar/Simple-Movie-Catalog)
 - [Github User Finder](https://github.com/resqiar/GithubUserFinder)
 - [Task Manager API](https://github.com/resqiar/Task-Manager-API)
