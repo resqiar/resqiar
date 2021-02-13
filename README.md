@@ -57,6 +57,7 @@ Currently unemployed as a Fresh Graduate
 
 ### ❤️‍🔥 Hot Project
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=resqiar&repo=cube-video-sharing&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=resqiar&repo=Netflix-clone&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ### ⏳ Wakatime
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=resqiar&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
