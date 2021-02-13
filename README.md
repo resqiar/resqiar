@@ -52,6 +52,7 @@ Currently unemployed as a Fresh Graduate
 - [WhatsApp Clone (Back-end)](https://github.com/resqiar/cube-whatsapp-backend)
 - [Uber Clone (Rider APP)](https://github.com/resqiar/Letsjek-Rider)
 - [Uber Clone (Driver APP)](https://github.com/resqiar/LetsJek-Driver)
+- [Netflix Clone](https://github.com/resqiar/Netflix-clone)
 - [Zoom Clone](https://github.com/resqiar/cube-video-sharing)
 - [Admin Dashboard Management using Node](https://github.com/resqiar/staycation-backend)
 
