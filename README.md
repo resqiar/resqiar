@@ -16,6 +16,7 @@ Currently unemployed as a Fresh Graduate
 - JavaScript ES6 & Asynchronous Handling
 - Embedded JavaScript (.ejs)
 - React.JS
+- Redux
 - Web Socket
 - Peer.JS
 - Pusher 
@@ -42,19 +43,19 @@ Currently unemployed as a Fresh Graduate
 </div>
 
 ### 🧰 My Projects: ~ from basic to medium-high
-- [Automate WhatsApp Sender](https://github.com/resqiar/automate-wa-message)
-- [Movie Catalog](https://github.com/resqiar/Simple-Movie-Catalog)
-- [Github User Finder](https://github.com/resqiar/GithubUserFinder)
-- [Task Manager API](https://github.com/resqiar/Task-Manager-API)
-- [How much you spend APP](https://github.com/resqiar/How-Much-You-Spent-App)
+- [💬 Automate WhatsApp Sender](https://github.com/resqiar/automate-wa-message)
+- [🎥 Movie Catalog](https://github.com/resqiar/Simple-Movie-Catalog)
+- [🔍 Github User Finder](https://github.com/resqiar/GithubUserFinder)
+- [📚 Task Manager API](https://github.com/resqiar/Task-Manager-API)
+- [💰 How much you spend APP](https://github.com/resqiar/How-Much-You-Spent-App)
 - [Converting HTML to REACT](https://github.com/resqiar/Cube-Template)
-- [WhatsApp Clone (Front-end)](https://github.com/resqiar/cube-whatsapp-clone)
-- [WhatsApp Clone (Back-end)](https://github.com/resqiar/cube-whatsapp-backend)
-- [Uber Clone (Rider APP)](https://github.com/resqiar/Letsjek-Rider)
-- [Uber Clone (Driver APP)](https://github.com/resqiar/LetsJek-Driver)
-- [Netflix Clone](https://github.com/resqiar/Netflix-clone)
-- [Zoom Clone](https://github.com/resqiar/cube-video-sharing)
-- [Admin Dashboard Management using Node](https://github.com/resqiar/staycation-backend)
+- [💬 WhatsApp Clone (Front-end)](https://github.com/resqiar/cube-whatsapp-clone)
+- [💬 WhatsApp Clone (Back-end)](https://github.com/resqiar/cube-whatsapp-backend)
+- [🚗 Uber Clone (Rider APP)](https://github.com/resqiar/Letsjek-Rider)
+- [🚗 Uber Clone (Driver APP)](https://github.com/resqiar/LetsJek-Driver)
+- [🎥 Netflix Clone](https://github.com/resqiar/Netflix-clone) || [Netflix Clone (Back-end)](https://github.com/resqiar/Netflix-clone-server)
+- [🧑‍🤝‍🧑 Zoom Clone](https://github.com/resqiar/cube-video-sharing) 
+- [📈 Admin Dashboard Management using Node](https://github.com/resqiar/staycation-backend)
 
 ### ❤️‍🔥 Hot Project
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=resqiar&repo=cube-video-sharing&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
