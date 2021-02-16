@@ -63,7 +63,7 @@ Currently unemployed as a Fresh Graduate
 
 ### ⏳ Wakatime
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=resqiar&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-> Joined Wakatime on 05/02/2020
+> *Other is just googling & debugging on the browser
 
 
 ### 🚀 Reach me on:
