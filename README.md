@@ -28,10 +28,10 @@ Currently unemployed as a Fresh Graduate
 - Heroku, Netlify
 - Dart (Flutter)
 - Kotlin
-- Python
 
 ### 🔍 Currently Learning:
-- GOlang
+- Python
+- Math (Fundamental to AI, ML, Scientific Engineering)
 - Design Pattern
 - Relational Database (Postgres/MySQL)
 - Docker, Kubernetes, Message Broker, etc
