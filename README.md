@@ -30,8 +30,6 @@ Currently unemployed as a Fresh Graduate
 - Kotlin
 
 ### 🔍 Currently Learning:
-- Python
-- Math (Fundamental to AI, ML, Scientific Engineering)
 - Design Pattern
 - Relational Database (Postgres/MySQL)
 - Docker, Kubernetes, Message Broker, etc
