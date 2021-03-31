@@ -14,6 +14,11 @@ Currently unemployed as a Fresh Graduate
 - JavaScript Client-side
 - JavaScript Server-side (Node)
 - JavaScript ES6 & Asynchronous Handling
+- TypeScript
+- NestJS
+- PostgreSQL
+- TypeORM
+- GraphQL
 - Embedded JavaScript (.ejs)
 - React.JS
 - Redux
