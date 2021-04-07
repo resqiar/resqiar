@@ -52,7 +52,7 @@ My name is Resqi Ageng Rahmatullah. I'm a Junior Software Engineer who specializ
 
 ## Featured and Latest Project
 - Private social media (dikenang)
-[Back-end with NestJS, GraphQL & more...](https://github.com/resqiar/dikenang-server)
+[Back-end with NestJS, GraphQL & more...](https://github.com/resqiar/dikenang-server)  <br />
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=resqiar&repo=dikenang-server&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 - Front-end (Currently in private, moved publicly when Back-end is 80% ready)
