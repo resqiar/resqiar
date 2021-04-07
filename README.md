@@ -3,11 +3,7 @@
 </div>
 
 # 👋 Hello! 
-My name is Resqi Ageng Rahmatullah. I'm a Junior Software Engineer who specialized in *back-end*, but also have an ability in *front-end* side of things. So much passionate about modern Web and Mobile Ecosystem using JavaScript/Dart/Kotlin while taking consideration into the latest tech stack.
-
-## 💼 Career
-Currently unemployed as a Fresh Graduate
-> Education: High School 2020
+My name is Resqi Ageng Rahmatullah. I'm a Junior Software Engineer who specialized in *back-end*, but also have an ability in *front-end* side of things. So much passionate about modern Web and Mobile Ecosystem using JavaScript/Dart/Kotlin while taking consideration into the latest tech stack. Usually work with Javascript things both Node and React.
 
 ## 💻 Skills or what i have learned 
 - HTML & CSS
@@ -20,25 +16,19 @@ Currently unemployed as a Fresh Graduate
 - TypeORM
 - GraphQL
 - Embedded JavaScript (.ejs)
-- React.JS
+- ReactJS
 - Redux
 - Web Socket
-- Peer.JS
+- PeerJS
 - Pusher 
-- Socket.IO
-- Express.JS
+- SocketIO
+- ExpressJS
 - GIT
 - MongoDB
 - Firebase
 - Heroku, Netlify
 - Dart (Flutter)
 - Kotlin
-
-### 🔍 Currently Learning:
-- Design Pattern
-- Relational Database (Postgres/MySQL)
-- Docker, Kubernetes, Message Broker, etc
-- Self Improvement
 
 ### 🛠️ Hammer and Wrench
 <div align="center">
@@ -59,6 +49,13 @@ Currently unemployed as a Fresh Graduate
 - [🎥 Netflix Clone](https://github.com/resqiar/Netflix-clone) || [Netflix Clone (Back-end)](https://github.com/resqiar/Netflix-clone-server)
 - [🧑‍🤝‍🧑 Zoom Clone](https://github.com/resqiar/cube-video-sharing) 
 - [📈 Admin Dashboard Management using Node](https://github.com/resqiar/staycation-backend)
+
+## Featured and Latest Project
+- Private social media (dikenang)
+[Back-end with NestJS, GraphQL & more...](https://github.com/resqiar/dikenang-server)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=resqiar&repo=dikenang-server&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+- Front-end (Currently in private, moved publicly when Back-end is 80% ready)
 
 ### ❤️‍🔥 Hot Project
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=resqiar&repo=cube-video-sharing&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
