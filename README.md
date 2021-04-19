@@ -35,7 +35,7 @@ My name is Resqi Ageng Rahmatullah. I'm a Junior Software Engineer who specializ
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=resqiar&theme=radical&layout=compact" alt="Sutanlab Github Stats">
 </div>
 
-### 🧰 My Projects: ~ from basic to medium-high
+### 🧰 My Projects, Not limited to;
 - [💬 Automate WhatsApp Sender](https://github.com/resqiar/automate-wa-message)
 - [🎥 Movie Catalog](https://github.com/resqiar/Simple-Movie-Catalog)
 - [🔍 Github User Finder](https://github.com/resqiar/GithubUserFinder)
@@ -67,7 +67,7 @@ My name is Resqi Ageng Rahmatullah. I'm a Junior Software Engineer who specializ
 
 
 ### 🚀 Reach me on:
-- Email: [resqiagengr@gmail.com](resqiagengr@gmail.com)
+- Email: [resqiagengr@gmail.com](mailto:resqiagengr@gmail.com)
 - LinkedIn: [Resqi Ageng Rahmatullah](www.linkedin.com/in/resqi-ageng-rahmatullah-8692911a5)
 - Instagram: [@resqiar_](https://www.instagram.com/resqiar_)
 - Telegram: [@resqiar](https://t.me/resqiar)
