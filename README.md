@@ -2,10 +2,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=resqiar&?include_all_commits=true&count_private=true&show_icons=true&theme=radical&repo=cube-video-sharing" alt="Sutanlab Github Stats">
 </div>
 
-# 👋 Hello! 
+# Hello World 
 My name is Resqi Ageng Rahmatullah. I'm a Junior Software Engineer who specialized in *back-end*, but also have an ability in *front-end* side of things. So much passionate about modern Web and Mobile Ecosystem using JavaScript/Dart/Kotlin while taking consideration into the latest tech stack. Usually work with Javascript things both Node and React.
 
-## 💻 Skills or what i have learned 
+# Skills 
 - HTML & CSS
 - JavaScript Client-side
 - JavaScript Server-side (Node)
@@ -30,12 +30,12 @@ My name is Resqi Ageng Rahmatullah. I'm a Junior Software Engineer who specializ
 - Dart (Flutter)
 - Kotlin
 
-### 🛠️ Hammer and Wrench
+# Hammer and Wrench
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=resqiar&theme=radical&layout=compact" alt="Sutanlab Github Stats">
 </div>
 
-### 🧰 My Projects, Not limited to;
+# Some of My Projects
 - [💬 Automate WhatsApp Sender](https://github.com/resqiar/automate-wa-message)
 - [🎥 Movie Catalog](https://github.com/resqiar/Simple-Movie-Catalog)
 - [🔍 Github User Finder](https://github.com/resqiar/GithubUserFinder)
@@ -50,23 +50,23 @@ My name is Resqi Ageng Rahmatullah. I'm a Junior Software Engineer who specializ
 - [🧑‍🤝‍🧑 Zoom Clone](https://github.com/resqiar/cube-video-sharing) 
 - [📈 Admin Dashboard Management using Node](https://github.com/resqiar/staycation-backend)
 
-## Featured and Latest Project
+# Featured Project
 - Private social media (dikenang)
 [Back-end with NestJS, GraphQL & more...](https://github.com/resqiar/dikenang-server)  <br />
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=resqiar&repo=dikenang-server&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 - Front-end (Currently in private, moved publicly when Back-end is 80% ready)
 
-### ❤️‍🔥 Hot Project
+# Hot Project
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=resqiar&repo=cube-video-sharing&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=resqiar&repo=Netflix-clone&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-### ⏳ Wakatime
+# Wakatime Stats
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=resqiar&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 > *Other is just googling & debugging on the browser
 
 
-### 🚀 Reach me on:
+# Reach Me
 - Email: [resqiagengr@gmail.com](mailto:resqiagengr@gmail.com)
 - LinkedIn: [Resqi Ageng Rahmatullah](www.linkedin.com/in/resqi-ageng-rahmatullah-8692911a5)
 - Instagram: [@resqiar_](https://www.instagram.com/resqiar_)
