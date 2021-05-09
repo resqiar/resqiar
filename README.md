@@ -51,11 +51,9 @@ My name is Resqi Ageng Rahmatullah. I'm a Junior Software Engineer who specializ
 - [📈 Admin Dashboard Management using Node](https://github.com/resqiar/staycation-backend)
 
 # Featured Project
-- Private social media (dikenang)
-[Back-end with NestJS, GraphQL & more...](https://github.com/resqiar/dikenang-server)  <br />
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=resqiar&repo=dikenang-server&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-- Front-end (Currently in private, moved publicly when Back-end is 80% ready)
+* [Dikenang](https://github.com/resqiar/dikenang-server), a private social media that used to shares memories among linked relationship partners <br/>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=resqiar&repo=dikenang&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 # Hot Project
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=resqiar&repo=cube-video-sharing&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
