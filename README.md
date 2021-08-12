@@ -5,7 +5,9 @@
 # Hello World 
 My name is Resqi Ageng Rahmatullah. I'm a Junior Software Engineer who specialized in *back-end*, but also have an ability in *front-end* side of things. So much passionate about modern web ecosystem using JS/TS while taking consideration into the latest tech stack. Usually work with Typescript things both Node and React.
 
-# Skills 
+# Skills
+***TL;DR = My biggest skill is how to google something.***
+
 - HTML & CSS
 - JavaScript Client-side
 - JavaScript Server-side (Node)
