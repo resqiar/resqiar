@@ -34,7 +34,7 @@ My name is Resqi Ageng Rahmatullah. I'm a Junior Software Engineer who specializ
 
 # Hammer and Wrench
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=resqiar&theme=radical&layout=compact&exclude_repo=basic_unity_fps" alt="Sutanlab Github Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=resqiar&theme=radical&layout=compact&exclude_repo=basic_unity_fps&langs_count=6" alt="Sutanlab Github Stats">
 </div>
 
 # Some of My Projects
