@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=resqiar&?include_all_commits=true&count_private=true&show_icons=true&theme=radical&repo=cube-video-sharing" alt="Sutanlab Github Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=resqiar&?include_all_commits=true&count_private=true&show_icons=true&theme=midnight-purple" alt="Sutanlab Github Stats">
 </div>
 
 # Hello World 
@@ -32,12 +32,11 @@ My name is Resqi Ageng Rahmatullah. I'm a Junior Software Engineer who specializ
 - Dart (Flutter)
 - Kotlin
 
-# Hammer and Wrench
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=resqiar&theme=radical&layout=compact&exclude_repo=basic_unity_fps&langs_count=6" alt="Sutanlab Github Stats">
-</div>
+# Wakatime Stats
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=resqiar&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+> *Other is just googling & debugging on the browser
 
-# Some of My Projects
+# Some of my "early days of programming" projects 
 - [💬 Automate WhatsApp Sender](https://github.com/resqiar/automate-wa-message)
 - [🎥 Movie Catalog](https://github.com/resqiar/Simple-Movie-Catalog)
 - [🔍 Github User Finder](https://github.com/resqiar/GithubUserFinder)
@@ -52,19 +51,10 @@ My name is Resqi Ageng Rahmatullah. I'm a Junior Software Engineer who specializ
 - [🧑‍🤝‍🧑 Zoom Clone](https://github.com/resqiar/cube-video-sharing) 
 - [📈 Admin Dashboard Management using Node](https://github.com/resqiar/staycation-backend)
 
-# Featured Project
+# Featured Public Project (Abandoned)
 
 * [Dikenang](https://github.com/resqiar/dikenang-server), a private social media that used to shares memories among linked relationship partners <br/>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=resqiar&repo=dikenang&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-# Hot Project
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=resqiar&repo=cube-video-sharing&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=resqiar&repo=Netflix-clone&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-# Wakatime Stats
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=resqiar&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-> *Other is just googling & debugging on the browser
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=resqiar&repo=dikenang&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
 # Reach Me
 - Email: [resqiagengr@gmail.com](mailto:resqiagengr@gmail.com)
@@ -73,4 +63,4 @@ My name is Resqi Ageng Rahmatullah. I'm a Junior Software Engineer who specializ
 - Telegram: [@resqiar](https://t.me/resqiar)
 
 ---
-© 2021 - Resqi Ageng Rahmatullah
+2019 - Resqi Ageng Rahmatullah
