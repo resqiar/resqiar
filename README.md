@@ -4,7 +4,8 @@
 My name is Resqi Ageng Rahmatullah. I'm a Junior Software Engineer who specialized in *back-end*, but also have an ability in *front-end* side of things. So much passionate about modern web ecosystem using JS/TS while taking consideration into the latest tech stack. Usually work with Typescript things both Node and React.
 
 # Skills
-***TL;DR = My biggest skill is how to google something.***
+***TL;DR = My biggest skill is how to google something.*** <br/>
+Below are the things that I learned across my career and are not guaranteed to be hardcore in all of the subjects.
 
 - HTML & CSS
 - JavaScript Client-side
@@ -31,6 +32,8 @@ My name is Resqi Ageng Rahmatullah. I'm a Junior Software Engineer who specializ
 - Kotlin
 
 # Wakatime Stats
+Wakatime count and generate chart based on my programming activities and what tools that I used across the time. Details are available in my wakatime [account](https://wakatime.com/@resqiar).
+
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=resqiar&theme=midnight-purple&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 > *Other is just googling & debugging on the browser
 
@@ -50,6 +53,7 @@ My name is Resqi Ageng Rahmatullah. I'm a Junior Software Engineer who specializ
 - [📈 Admin Dashboard Management using Node](https://github.com/resqiar/staycation-backend)
 
 # Featured Public Project (Abandoned)
+> The most dedicated project back in the day, unfortunately I don't have time to maintain the project any longer. The server still on though and you can visit it here https://dikenang.co
 
 * [Dikenang](https://github.com/resqiar/dikenang-server), a private social media that used to shares memories among linked relationship partners <br/>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=resqiar&repo=dikenang&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
