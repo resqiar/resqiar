@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=resqiar&?include_all_commits=true&count_private=true&show_icons=true&theme=midnight-purple" alt="Sutanlab Github Stats">
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=resqiar&?include_all_commits=true&count_private=true&show_icons=true&theme=midnight-purple" alt="Sutanlab Github Stats">
 
 # Hello World 
 My name is Resqi Ageng Rahmatullah. I'm a Junior Software Engineer who specialized in *back-end*, but also have an ability in *front-end* side of things. So much passionate about modern web ecosystem using JS/TS while taking consideration into the latest tech stack. Usually work with Typescript things both Node and React.
@@ -33,7 +31,7 @@ My name is Resqi Ageng Rahmatullah. I'm a Junior Software Engineer who specializ
 - Kotlin
 
 # Wakatime Stats
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=resqiar&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=resqiar&theme=midnight-purple&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 > *Other is just googling & debugging on the browser
 
 # Some of my "early days of programming" projects 
