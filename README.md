@@ -52,11 +52,12 @@ Wakatime count and generate chart based on my programming activities and what to
 - [🧑‍🤝‍🧑 Zoom Clone](https://github.com/resqiar/cube-video-sharing) 
 - [📈 Admin Dashboard Management using Node](https://github.com/resqiar/staycation-backend)
 
-# Featured Public Project (Abandoned)
-> The most dedicated project back in the day, unfortunately I don't have time to maintain the project any longer. The server still on though and you can visit it here https://dikenang.co
+# Featured Project
+* [Dikenang](https://github.com/resqiar/dikenang-server) (Abandoned), a social media that used to shares memories among linked relationship partners 
 
-* [Dikenang](https://github.com/resqiar/dikenang-server), a private social media that used to shares memories among linked relationship partners <br/>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=resqiar&repo=dikenang&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+> The most dedicated project back in the day, unfortunately I don't have time to maintain the project any longer.
+
+* [Writegap](https://www.writegap.com) (PRIVATE), a platform where everyone can write and read for free. I am currently working on it day by day. Planned, designed, and coded myself. 
 
 # Reach Me
 - Email: [resqiagengr@gmail.com](mailto:resqiagengr@gmail.com)
@@ -65,4 +66,4 @@ Wakatime count and generate chart based on my programming activities and what to
 - Telegram: [@resqiar](https://t.me/resqiar)
 
 ---
-2019 - Resqi Ageng Rahmatullah
+2022 - Resqi Ageng Rahmatullah
