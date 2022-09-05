@@ -5,6 +5,7 @@ My name is Resqi Ageng Rahmatullah. I'm a Junior Software Engineer who specializ
 
 # Skills
 ***TL;DR = My biggest skill is how to google something.*** <br/>
+
 Below are the things that I learned across my career and are not guaranteed to be hardcore in all of the subjects.
 
 - HTML & CSS
@@ -18,6 +19,7 @@ Below are the things that I learned across my career and are not guaranteed to b
 - GraphQL
 - Embedded JavaScript (.ejs)
 - ReactJS
+- React Native
 - Redux
 - Web Socket
 - PeerJS
@@ -30,6 +32,7 @@ Below are the things that I learned across my career and are not guaranteed to b
 - Heroku, Netlify
 - Dart (Flutter)
 - Kotlin
+- Svelte - SvelteKit
 
 # Wakatime Stats
 Wakatime count and generate chart based on my programming activities and what tools that I used across the time. Details are available in my wakatime [account](https://wakatime.com/@resqiar).
@@ -53,11 +56,11 @@ Wakatime count and generate chart based on my programming activities and what to
 - [📈 Admin Dashboard Management using Node](https://github.com/resqiar/staycation-backend)
 
 # Featured Project
-* [Dikenang](https://github.com/resqiar/dikenang-server) (Abandoned), a social media that used to shares memories among linked relationship partners 
-
-> The most dedicated project back in the day, unfortunately I don't have time to maintain the project any longer.
-
-* [Writegap](https://www.writegap.com) (PRIVATE), a platform where everyone can write and read for free. I am currently working on it day by day. Planned, designed, and coded myself. 
+* [Binder](https://github.com/resqiar/binder)
+* [Binder Mobile](https://github.com/resqiar/binder-app)
+* [Binder Server](https://github.com/resqiar/binder-server)
+* [Algo-V](https://github.com/resqiar/algo-visualization)
+* [Dikenang](https://github.com/resqiar/dikenang) (ABANDONED - no time to maintain)
 
 # Reach Me
 - Email: [resqiagengr@gmail.com](mailto:resqiagengr@gmail.com)
