@@ -1,12 +1,12 @@
 <img src="https://github-readme-stats.vercel.app/api?username=resqiar&?include_all_commits=true&count_private=true&show_icons=true&theme=midnight-purple" alt="Sutanlab Github Stats">
 
 # Hello World 
-My name is Resqi Ageng Rahmatullah. I'm a Junior Software Engineer who specialized in *back-end*, but also have an ability in *front-end* side of things. So much passionate about modern web ecosystem using JS/TS while taking consideration into the latest tech stack. Usually work with Typescript things both Node and React.
+My name is Resqi Ageng Rahmatullah. I am a Junior Software Engineer who specializes in back-end, but also has proficiency in front-end development. I am highly passionate about the modern web ecosystem utilizing TypeScript, while keeping the edge of the latest technological advancements. I typically work with Typescript in the front-end using React, and Svelte, and in the back-end with NestJS + Fastify/Express, or Golang.
 
 # Skills
-***TL;DR = My biggest skill is how to google something.*** <br/>
+***TL;DR = My biggest skill is how to patiently google something.*** <br/>
 
-Below are the things that I learned across my career and are not guaranteed to be hardcore in all of the subjects.
+Below are the things that I learned across my career and are **not guaranteed** to be hardcore in all of the subjects.
 
 - HTML & CSS
 - JavaScript Client-side
@@ -33,6 +33,9 @@ Below are the things that I learned across my career and are not guaranteed to b
 - Dart (Flutter)
 - Kotlin
 - Svelte - SvelteKit
+- Golang
+- Gin & Fiber
+- A bit of Rust
 
 # Wakatime Stats
 Wakatime count and generate chart based on my programming activities and what tools that I used across the time. Details are available in my wakatime [account](https://wakatime.com/@resqiar).
@@ -40,7 +43,7 @@ Wakatime count and generate chart based on my programming activities and what to
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=resqiar&theme=midnight-purple&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 > *Other is just googling & debugging on the browser
 
-# Some of my "early days of programming" projects 
+# Some projects that taught me the basics
 - [💬 Automate WhatsApp Sender](https://github.com/resqiar/automate-wa-message)
 - [🎥 Movie Catalog](https://github.com/resqiar/Simple-Movie-Catalog)
 - [🔍 Github User Finder](https://github.com/resqiar/GithubUserFinder)
@@ -55,12 +58,15 @@ Wakatime count and generate chart based on my programming activities and what to
 - [🧑‍🤝‍🧑 Zoom Clone](https://github.com/resqiar/cube-video-sharing) 
 - [📈 Admin Dashboard Management using Node](https://github.com/resqiar/staycation-backend)
 
-# Featured Project
-* [Binder](https://github.com/resqiar/binder)
+# Featured Project / Currently Working on
+### [Algo-V](https://github.com/resqiar/algo-visualization) — `on-progress`
+Algo-V is a visualization tool that I developed to help me better understand the algorithms that I learned. Developing this app has greatly enhanced my understanding, as it goes beyond mere theoretical memorization by allowing me to implement and animate the algorithms directly within the browser.
+
+### [Binder](https://github.com/resqiar/binder) — `actively-updated` `released`
+To effectively store the supporting information from my binder/notebook, I developed Binder, my personal application.
+The app was built with the stunning tool, Svelte. It is not only a web application, but it also includes a server (NestJS and Fastify) and a mobile component (React Native) for increased convenience and accessibility. Even though it is personal, it can be extended to public usage at any point since it is designed to easily extended for future use-case. 
 * [Binder Mobile](https://github.com/resqiar/binder-app)
 * [Binder Server](https://github.com/resqiar/binder-server)
-* [Algo-V](https://github.com/resqiar/algo-visualization)
-* [Dikenang](https://github.com/resqiar/dikenang) (ABANDONED - no time to maintain)
 
 # Reach Me
 - Email: [resqiagengr@gmail.com](mailto:resqiagengr@gmail.com)
