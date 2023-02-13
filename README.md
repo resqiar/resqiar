@@ -1,4 +1,4 @@
-<img src="https://github-readme-stats.vercel.app/api?username=resqiar&?include_all_commits=true&count_private=true&show_icons=true&theme=midnight-purple" alt="Sutanlab Github Stats">
+<img src="https://github-readme-stats.vercel.app/api?username=resqiar&include_all_commits=true&count_private=true&show_icons=true&theme=midnight-purple" alt="Sutanlab Github Stats">
 
 # Hello World 
 My name is Resqi Ageng Rahmatullah. I am a Junior Software Engineer who specializes in back-end, but also has proficiency in front-end development. I am highly passionate about the modern web ecosystem utilizing TypeScript, while keeping the edge of the latest technological advancements. I typically work with Typescript in the front-end using React, and Svelte, and in the back-end with NestJS + Fastify/Express, or Golang.
