@@ -65,8 +65,8 @@ Algo-V is a visualization tool that I developed to help me better understand the
 ### [Binder](https://github.com/resqiar/binder) — `actively-updated` `released`
 To effectively store the supporting information from my binder/notebook, I developed Binder, my personal application.
 The app was built with the stunning tool, Svelte. It is not only a web application, but it also includes a server (NestJS and Fastify) and a mobile component (React Native) for increased convenience and accessibility. Even though it is personal, it can be extended to public usage at any point since it is designed to easily extended for future use-case. 
-* [Binder Mobile](https://github.com/resqiar/binder-app)
-* [Binder Server](https://github.com/resqiar/binder-server)
+* [Binder Mobile](https://github.com/resqiar/binder-app) `unmaintained`
+* [Binder Server](https://github.com/resqiar/binder-server) `released`
 
 # Reach Me
 - Email: [resqiagengr@gmail.com](mailto:resqiagengr@gmail.com)
