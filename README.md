@@ -59,6 +59,9 @@ Wakatime count and generate chart based on my programming activities and what to
 - [📈 Admin Dashboard Management using Node](https://github.com/resqiar/staycation-backend)
 
 # Featured Project / Currently Working on
+### [Resdev](https://github.com/resqiar/resdev) (name probably changes)
+Personal website for projects showcase, blogs, courses, and other stuff. Built from the ground up using Sveltekit and Gofiber ❤️. The project is work in progress (WIP)
+
 ### [Algo-V](https://github.com/resqiar/algo-visualization) — `actively-updated` `released`
 Algo-V is a visualization tool that I developed to help me better understand the algorithms that I learned. Developing this app has greatly enhanced my understanding, as it goes beyond mere theoretical memorization by allowing me to implement and animate the algorithms directly within the browser.
 
