@@ -1,7 +1,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=resqiar&include_all_commits=true&count_private=true&show_icons=true&theme=midnight-purple" alt="Sutanlab Github Stats">
 
 # Hello World 
-My name is Resqi Ageng Rahmatullah. I am a Junior Software Engineer who specializes in back-end, but also has proficiency in front-end development. I am highly passionate about the modern web ecosystem utilizing TypeScript, while keeping the edge of the latest technological advancements. I typically work with Typescript in the front-end using React, and Svelte, and in the back-end with NestJS + Fastify/Express, or Golang.
+I am Resqi Ageng Rahmatullah, a Junior Software Engineer specializing in fullstack software development. I thrive on embracing new technologies to stay at the forefront of industry advancements. In front-end development, I excel in JS/TS, including frameworks like NextJS and Sveltekit. In the backend, I am proficient in NestJS with Fastify/Express or Golang. My expertise spans multiple languages and tools within the modern web ecosystem. Programming languages are tools, and what truly sets me apart is my unwavering determination to adapt and learn.
 
 # Skills
 ***TL;DR = My biggest skill is how to patiently google something.*** <br/>
@@ -59,7 +59,7 @@ Wakatime count and generate chart based on my programming activities and what to
 - [📈 Admin Dashboard Management using Node](https://github.com/resqiar/staycation-backend)
 
 # Featured Project / Currently Working on
-### [Resdev](https://github.com/resqiar/resdev) (name probably changes)
+### [Resqiar.com](https://github.com/resqiar/resqiar.com) & [Resqiar.com-server](https://github.com/resqiar/resqiar.com-server) `alpha`
 Personal website for projects showcase, blogs, courses, and other stuff. Built from the ground up using Sveltekit and Gofiber ❤️. The project is work in progress (WIP)
 
 ### [Algo-V](https://github.com/resqiar/algo-visualization) — `actively-updated` `released`
@@ -72,10 +72,10 @@ The app was built with the stunning tool, Svelte. It is not only a web applicati
 * [Binder Server](https://github.com/resqiar/binder-server) `released`
 
 # Reach Me
-- Email: [resqiagengr@gmail.com](mailto:resqiagengr@gmail.com)
+- Email: [contact@resqiar.com](mailto:contact@resqiar.com)
 - LinkedIn: [Resqi Ageng Rahmatullah](www.linkedin.com/in/resqi-ageng-rahmatullah-8692911a5)
 - Instagram: [@resqiar_](https://www.instagram.com/resqiar_)
 - Telegram: [@resqiar](https://t.me/resqiar)
 
 ---
-2022 - Resqi Ageng Rahmatullah
+2023 - Resqi Ageng Rahmatullah
