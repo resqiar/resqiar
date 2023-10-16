@@ -26,7 +26,7 @@ Wakatime count and generate chart based on my programming activities and what to
 - [📈 Admin Dashboard Management using Node](https://github.com/resqiar/staycation-backend)
 
 # Featured Project / Currently Working on
-### [resqiar.com](https://github.com/resqiar/resqiar.com), [api.resqiar.com](https://github.com/resqiar/api.resqiar.com) `alpha` [parser.resqiar.com](https://parser.resqiar.com) `beta`
+### [resqiar.com](https://github.com/resqiar/resqiar.com), [api.resqiar.com](https://github.com/resqiar/api.resqiar.com) `released` [parser.resqiar.com](https://parser.resqiar.com) `beta`
 Personal website for projects showcase, blogs, courses, and other stuff. Built from the ground up using Sveltekit and Gofiber ❤️. The project is work in progress (WIP)
 
 ### [Algo-V](https://github.com/resqiar/algo-visualization) — `released`
@@ -40,9 +40,10 @@ The app was built with the stunning tool, Svelte. It is not only a web applicati
 
 # Reach Me
 - Email: [contact@resqiar.com](mailto:contact@resqiar.com)
+- Twitter / X: [@resqiar](https://twitter.com/resqiar_)
+- Blogs: [Resqiar Blogs](https://www.resqiar.com/blog)
 - LinkedIn: [Resqi Ageng Rahmatullah](www.linkedin.com/in/resqi-ageng-rahmatullah-8692911a5)
 - Instagram: [@resqiar_](https://www.instagram.com/resqiar_)
-- Telegram: [@resqiar](https://t.me/resqiar)
 
 ---
 2023 - Resqi Ageng Rahmatullah
